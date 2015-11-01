@@ -2,6 +2,7 @@
   "name": "angular-material-data-table",
   "version": "0.8.14",
   "description": "Material Design data table.",
+  "registry": "npm",
   "repository": {
     "type": "git",
     "url": "git://github.com/daniel-nagy/md-data-table.git"
